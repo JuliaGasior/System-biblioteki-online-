@@ -1,0 +1,62 @@
+﻿@model SystemBibliotekiOnline.Models.DbModels.Author
+
+<h2>Edytuj autora</h2>
+
+<form asp-action="Edit"
+      method="post">
+
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" asp-for="AuthorId" />
+
+    <div asp-validation-summary="All"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+
+        <label asp-for="Name">
+            Imię
+        </label>
+
+        <input asp-for="Name"
+               class="form-control" />
+
+        <span asp-validation-for="Name"
+              class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+
+        <label asp-for="Surname">
+            Nazwisko
+        </label>
+
+        <input asp-for="Surname"
+               class="form-control" />
+
+        <span asp-validation-for="Surname"
+              class="text-danger"></span>
+
+    </div>
+
+    <div class="mt-3">
+
+        <button type="submit"
+                class="btn btn-primary">
+            Zapisz zmiany
+        </button>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+            Anuluj
+        </a>
+
+    </div>
+
+</form>
+
+@section Scripts
+{
+        <partial name="_ValidationScriptsPartial" />
+}

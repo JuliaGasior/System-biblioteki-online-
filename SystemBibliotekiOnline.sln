@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemBibliotekiOnline", "SystemBibliotekiOnline\SystemBibliotekiOnline.csproj", "{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC2F18F-5193-4205-88E7-8756E1DF3B32}
+	EndGlobalSection
+EndGlobal

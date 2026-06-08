@@ -1,0 +1,48 @@
+﻿@model IEnumerable<SystemBibliotekiOnline.Models.DbModels.Category>
+
+<h2>Kategorie</h2>
+
+<a asp-action="Create"
+   class="btn btn-success mb-3">
+    Dodaj kategorię
+</a>
+
+<table class="table table-striped">
+
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+                <tr>
+
+                    <td>@item.Name</td>
+
+                    <td>
+
+                        <a asp-action="Edit"
+                           asp-route-id="@item.CategoryId"
+                           class="btn btn-warning">
+                            Edytuj
+                        </a>
+
+                        <a asp-action="Delete"
+                           asp-route-id="@item.CategoryId"
+                           class="btn btn-danger">
+                            Usuń
+                        </a>
+
+                    </td>
+
+                </tr>
+        }
+
+    </tbody>
+
+</table>

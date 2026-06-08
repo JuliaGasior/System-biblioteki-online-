@@ -1,0 +1,46 @@
+﻿@model SystemBibliotekiOnline.Models.DbModels.Category
+
+<h2>Dodaj kategorię</h2>
+
+<form asp-action="Create"
+      method="post">
+
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="All"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+
+        <label asp-for="Name">
+            Nazwa kategorii
+        </label>
+
+        <input asp-for="Name"
+               class="form-control" />
+
+        <span asp-validation-for="Name"
+              class="text-danger"></span>
+
+    </div>
+
+    <div class="mt-3">
+
+        <button type="submit"
+                class="btn btn-primary">
+            Zapisz
+        </button>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+            Anuluj
+        </a>
+
+    </div>
+
+</form>
+
+@section Scripts
+{
+            <partial name="_ValidationScriptsPartial" />
+}

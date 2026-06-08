@@ -1,0 +1,27 @@
+﻿@model SystemBibliotekiOnline.Models.DbModels.Author
+
+<h2>Usuń autora</h2>
+
+<div asp-validation-summary="All"
+     class="text-danger"></div>
+
+<div class="alert alert-danger">
+    Czy na pewno chcesz usunąć autora:
+    <strong>@Model.Name @Model.Surname</strong>?
+</div>
+
+<form asp-action="Delete">
+
+    <input type="hidden"
+           asp-for="AuthorId" />
+
+    <button class="btn btn-danger">
+        Usuń
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Anuluj
+    </a>
+
+</form>

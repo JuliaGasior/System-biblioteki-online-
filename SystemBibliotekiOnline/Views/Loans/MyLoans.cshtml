@@ -1,0 +1,79 @@
+﻿@model IEnumerable<SystemBibliotekiOnline.Models.DbModels.Loan>
+
+<h2>Moje wypożyczenia</h2>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>Książka</th>
+            <th>Data wypożyczenia</th>
+            <th>Termin zwrotu</th>
+            <th>Status</th>
+            <th>Informacja</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>@item.Book?.Title</td>
+
+                    <td>
+                    @(item.LoanDate != default(DateTime)
+                            ? item.LoanDate.ToString("dd.MM.yyyy")
+                            : "-")
+                    </td>
+
+                    <td>
+                    @(item.DueDate != default(DateTime)
+                            ? item.DueDate.ToString("dd.MM.yyyy")
+                            : "-")
+                    </td>
+
+                    <td>
+                    @if (item.IsReturned)
+                    {
+                                <span class="badge bg-success">Zwrócona</span>
+                    }
+                    else if (item.IsOverdue)
+                    {
+                                <span class="badge bg-danger">Przeterminowana</span>
+                    }
+                    else
+                    {
+                                <span class="badge bg-warning text-dark">Wypożyczona</span>
+                    }
+                    </td>
+
+                    <td>
+                    @if (!item.IsReturned && item.IsOverdue)
+                    {
+                                <span class="text-danger fw-bold">
+                                    Przekroczono termin zwrotu!
+                                </span>
+                    }
+                    </td>
+
+                    <td>
+                    @if (!item.IsReturned)
+                    {
+                                <form asp-action="Return" method="post">
+                            @Html.AntiForgeryToken()
+
+                                    <input type="hidden" name="loanId" value="@item.LoanId" />
+
+                                    <button type="submit" class="btn btn-danger">
+                                        Zwróć
+                                    </button>
+                                </form>
+                    }
+                    </td>
+
+                </tr>
+        }
+    </tbody>
+
+</table>

@@ -1,0 +1,43 @@
+﻿@model SystemBibliotekiOnline.Models.DbModels.Book
+
+<h2>Usuń książkę</h2>
+
+<div class="alert alert-warning">
+    Czy na pewno chcesz usunąć książkę:
+    <strong>@Model.Title</strong>?
+</div>
+
+<div class="mb-3">
+    <p><b>Autor:</b> @Model.Author.Name @Model.Author.Surname</p>
+    <p><b>Kategoria:</b> @Model.Category.Name</p>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.CoverImagePath))
+{
+        <img src="/uploads/books/@Model.CoverImagePath"
+             width="120" />
+}
+
+<hr />
+
+<form asp-action="Delete"
+      method="post">
+
+    @Html.AntiForgeryToken()
+
+    <input type="hidden"
+           name="id"
+           value="@Model.BookId" />
+
+    <button type="submit"
+            class="btn btn-danger"
+            onclick="return confirm('Czy na pewno chcesz usunąć tę książkę?')">
+        Usuń
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Anuluj
+    </a>
+
+</form>

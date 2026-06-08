@@ -1,0 +1,54 @@
+﻿@model IEnumerable<SystemBibliotekiOnline.Models.DbModels.Loan>
+
+<h2>Wszystkie wypożyczenia</h2>
+
+<table class="table table-striped">
+
+    <thead>
+        <tr>
+            <th>Użytkownik</th>
+            <th>Książka</th>
+            <th>Data wypożyczenia</th>
+            <th>Termin zwrotu</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>@item.User?.Email</td>
+                    <td>@item.Book?.Title</td>
+
+                    <td>
+                    @(item.LoanDate != default(DateTime)
+                            ? item.LoanDate.ToString("dd.MM.yyyy")
+                            : "-")
+                    </td>
+
+                    <td>
+                    @(item.DueDate != default(DateTime)
+                            ? item.DueDate.ToString("dd.MM.yyyy")
+                            : "-")
+                    </td>
+
+                    <td>
+                    @if (item.IsReturned)
+                    {
+                                <span class="badge bg-success">Zwrócone</span>
+                    }
+                    else if (item.IsOverdue)
+                    {
+                                <span class="badge bg-danger">Przeterminowane</span>
+                    }
+                    else
+                    {
+                                <span class="badge bg-warning text-dark">Wypożyczone</span>
+                    }
+                    </td>
+                </tr>
+        }
+    </tbody>
+
+</table>

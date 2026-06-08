@@ -1,0 +1,104 @@
+﻿@page
+@model RegisterModel
+
+<div class="row justify-content-center align-items-center" style="min-height:75vh;">
+
+    <div class="col-md-5">
+
+        <div class="card shadow-sm">
+
+            <div class="card-body">
+
+                <h2 class="text-center mb-4">
+                    Utwórz konto
+                </h2>
+
+                <form id="registerForm"
+                      asp-route-returnUrl="@Model.ReturnUrl"
+                      method="post">
+
+                    <div asp-validation-summary="ModelOnly"
+                         class="text-danger"
+                         role="alert">
+                    </div>
+
+                    <div class="form-floating mb-3">
+
+                        <input asp-for="Input.Email"
+                               class="form-control"
+                               autocomplete="username"
+                               placeholder="nazwa@przyklad.com" />
+
+                        <label asp-for="Input.Email">
+                            Adres e-mail
+                        </label>
+
+                        <span asp-validation-for="Input.Email"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <div class="form-floating mb-3">
+
+                        <input asp-for="Input.Password"
+                               class="form-control"
+                               autocomplete="new-password"
+                               placeholder="Hasło" />
+
+                        <label asp-for="Input.Password">
+                            Hasło
+                        </label>
+
+                        <span asp-validation-for="Input.Password"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <div class="form-floating mb-3">
+
+                        <input asp-for="Input.ConfirmPassword"
+                               class="form-control"
+                               autocomplete="new-password"
+                               placeholder="Potwierdź hasło" />
+
+                        <label asp-for="Input.ConfirmPassword">
+                            Potwierdź hasło
+                        </label>
+
+                        <span asp-validation-for="Input.ConfirmPassword"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <button id="registerSubmit"
+                            type="submit"
+                            class="btn btn-primary w-100">
+                        Zarejestruj się
+                    </button>
+
+                    <hr />
+
+                    <div class="text-center">
+
+                        <a asp-page="./Login">
+                            Masz już konto? Zaloguj się
+                        </a>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+}

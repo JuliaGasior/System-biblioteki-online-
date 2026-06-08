@@ -1,0 +1,38 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using SystemBibliotekiOnline.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark">
+                Witaj @User.Identity?.Name
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" method="post">
+                <button type="submit" class="nav-link btn btn-link text-dark">
+                    Wyloguj
+                </button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">
+                Logowanie
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">
+                Rejestracja
+            </a>
+        </li>
+    }
+</ul>

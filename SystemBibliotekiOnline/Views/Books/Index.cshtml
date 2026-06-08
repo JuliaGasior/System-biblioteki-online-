@@ -1,0 +1,70 @@
+﻿@model IEnumerable<SystemBibliotekiOnline.Models.DbModels.Book>
+
+<h2>Książki</h2>
+
+<a asp-action="Create"
+   class="btn btn-success mb-3">
+    Dodaj książkę
+</a>
+
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Okładka</th>
+            <th>Tytuł</th>
+            <th>Autor</th>
+            <th>Kategoria</th>
+            <th>Dostępna</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+                <tr>
+
+                    <td>
+                    @if (!string.IsNullOrEmpty(item.CoverImagePath))
+                    {
+                                <img src="/uploads/books/@item.CoverImagePath"
+                                     width="80" />
+                    }
+                    </td>
+
+                    <td>@item.Title</td>
+
+                    <td>
+                    @item.Author.Name @item.Author.Surname
+                    </td>
+
+                    <td>@item.Category.Name</td>
+
+                    <td>
+                    @(item.IsAvailable ? "Tak" : "Nie")
+                    </td>
+
+                    <td>
+
+                        <a asp-action="Edit"
+                           asp-route-id="@item.BookId"
+                           class="btn btn-warning">
+                            Edytuj
+                        </a>
+
+                        <a asp-action="Delete"
+                           asp-route-id="@item.BookId"
+                           class="btn btn-danger">
+                            Usuń
+                        </a>
+
+                    </td>
+
+                </tr>
+        }
+
+    </tbody>
+
+</table>

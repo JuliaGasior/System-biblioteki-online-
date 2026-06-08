@@ -1,0 +1,131 @@
+﻿@model SystemBibliotekiOnline.Models.ViewModels.BookFormViewModel
+
+<h2>Edytuj książkę</h2>
+
+<form asp-action="Edit"
+      method="post"
+      enctype="multipart/form-data">
+
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" asp-for="Book.BookId" />
+
+    <div asp-validation-summary="All"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+        <label>Tytuł</label>
+        <input asp-for="Book.Title" class="form-control" />
+        <span asp-validation-for="Book.Title" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>ISBN</label>
+        <input asp-for="Book.ISBN" class="form-control" />
+        <span asp-validation-for="Book.ISBN" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Opis</label>
+        <textarea asp-for="Book.Description"
+                  class="form-control"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label>Rok wydania</label>
+        <input asp-for="Book.PublicationYear"
+               class="form-control" />
+        <span asp-validation-for="Book.PublicationYear"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Autor</label>
+
+        <select asp-for="Book.AuthorId"
+                asp-items="Model.Authors"
+                class="form-control">
+
+            <option value="">
+                -- Wybierz autora --
+            </option>
+
+        </select>
+
+        <span asp-validation-for="Book.AuthorId"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Kategoria</label>
+
+        <select asp-for="Book.CategoryId"
+                asp-items="Model.Categories"
+                class="form-control">
+
+            <option value="">
+                -- Wybierz kategorię --
+            </option>
+
+        </select>
+
+        <span asp-validation-for="Book.CategoryId"
+              class="text-danger"></span>
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.Book.CoverImagePath))
+    {
+            <div class="mb-3">
+
+                <label>Obecna okładka</label>
+
+                <div>
+                    <img src="/uploads/books/@Model.Book.CoverImagePath"
+                         width="150"
+                         class="img-thumbnail mb-2" />
+                </div>
+
+                <div class="form-check">
+
+                    <input asp-for="RemoveCover"
+                           class="form-check-input" />
+
+                    <label asp-for="RemoveCover"
+                           class="form-check-label">
+                        Usuń obecną okładkę
+                    </label>
+
+                </div>
+
+            </div>
+    }
+
+    <div class="mb-3">
+
+        <label>Nowa okładka</label>
+
+        <input asp-for="CoverFile"
+               type="file"
+               class="form-control" />
+
+        <span asp-validation-for="CoverFile"
+              class="text-danger"></span>
+
+    </div>
+
+    <button type="submit"
+            class="btn btn-primary">
+        Zapisz zmiany
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Anuluj
+    </a>
+
+</form>
+
+@section Scripts
+{
+        <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,901 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\dbmodels\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\dbmodels\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\dbmodels\\bookcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\dbmodels\\bookcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\dbmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\dbmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\dbmodels\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\dbmodels\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\migrations\\20260602134004_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\migrations\\20260602134004_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\migrations\\20260602141112_validationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\migrations\\20260602141112_validationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\models\\viewmodels\\bookformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\models\\viewmodels\\bookformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\migrations\\20260602160515_addloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\migrations\\20260602160515_addloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\books\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\books\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\loans\\myloans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\loans\\myloans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\loans\\allloans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\loans\\allloans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\PagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SystemBibliotekiOnline\\Controllers\\PagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\PageContent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SystemBibliotekiOnline\\Models\\DbModels\\PageContent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\migrations\\20260608105809_fixexistingloandates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\migrations\\20260608105809_fixexistingloandates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\migrations\\20260608010926_addduedatetoloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\migrations\\20260608010926_addduedatetoloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\migrations\\20260607170930_adduniqueisbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\migrations\\20260607170930_adduniqueisbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|c:\\users\\julia\\onedrive\\pulpit\\systembibliotekionline\\systembibliotekionline\\migrations\\20260608015604_fixduedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CBE66F-FB5D-4B3A-83E4-BCAA7D9A545B}|SystemBibliotekiOnline\\SystemBibliotekiOnline.csproj|solutionrelative:systembibliotekionline\\migrations\\20260608015604_fixduedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 49,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Controllers\\PagesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T15:39:36.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PageContent.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\PageContent.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\DbModels\\PageContent.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\PageContent.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\DbModels\\PageContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T15:33:52.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T15:10:17.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T14:27:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T14:25:48.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T12:51:22.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T12:51:21.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T12:51:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T12:51:21.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T12:08:09.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T12:08:06.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20260608105809_FixExistingLoanDates.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260608105809_FixExistingLoanDates.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Migrations\\20260608105809_FixExistingLoanDates.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260608105809_FixExistingLoanDates.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Migrations\\20260608105809_FixExistingLoanDates.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T10:58:09.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20260608010926_AddDueDateToLoan.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260608010926_AddDueDateToLoan.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Migrations\\20260608010926_AddDueDateToLoan.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260608010926_AddDueDateToLoan.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Migrations\\20260608010926_AddDueDateToLoan.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:09:27.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20260607170930_AddUniqueIsbn.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260607170930_AddUniqueIsbn.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Migrations\\20260607170930_AddUniqueIsbn.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260607170930_AddUniqueIsbn.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Migrations\\20260607170930_AddUniqueIsbn.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T17:09:30.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20260608015604_FixDueDate.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260608015604_FixDueDate.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Migrations\\20260608015604_FixDueDate.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260608015604_FixDueDate.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Migrations\\20260608015604_FixDueDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:56:04.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SystemBibliotekiOnline\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-06T02:02:51.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T23:22:53.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T21:47:26.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALAAAAAAAAAAAAAowMoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T14:05:05.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T17:55:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T17:51:42.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:30:25.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowE8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T17:25:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:21:57.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:19:03.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AllLoans.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Loans\\AllLoans.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Loans\\AllLoans.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Loans\\AllLoans.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Loans\\AllLoans.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:12:10.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyLoans.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Loans\\MyLoans.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Loans\\MyLoans.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Loans\\MyLoans.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Loans\\MyLoans.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:11:40.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:10:21.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Catalog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Catalog.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Books\\Catalog.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Catalog.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Books\\Catalog.cshtml",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAswIcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:09:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Controllers\\LoansController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA3wGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:06:24.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260602160515_AddLoans.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260602160515_AddLoans.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Migrations\\20260602160515_AddLoans.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260602160515_AddLoans.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Migrations\\20260602160515_AddLoans.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:05:16.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T15:17:39.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T15:08:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\ViewModels\\BookFormViewModel.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\ViewModels\\BookFormViewModel.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\ViewModels\\BookFormViewModel.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\ViewModels\\BookFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:32:01.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260602141112_ValidationUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260602141112_ValidationUpdate.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Migrations\\20260602141112_ValidationUpdate.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260602141112_ValidationUpdate.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Migrations\\20260602141112_ValidationUpdate.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:11:12.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T14:04:40.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T14:03:42.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T14:03:17.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T14:00:29.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T13:55:40.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T13:54:12.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Authors\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T13:53:37.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T13:52:42.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:45:53.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260602134004_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260602134004_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Migrations\\20260602134004_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Migrations\\20260602134004_InitialCreate.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Migrations\\20260602134004_InitialCreate.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAswFkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:40:05.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:33:46.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Program.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Program.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:35:17.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\appsettings.json",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\appsettings.json",
+              "RelativeToolTip": "SystemBibliotekiOnline\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T02:35:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\DatabaseContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:32:48.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:32:33.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Loan.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\DbModels\\Loan.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Loan.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\DbModels\\Loan.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:32:17.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Category.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\DbModels\\Category.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Category.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\DbModels\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:32:03.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookcs.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Bookcs.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\DbModels\\Bookcs.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Bookcs.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\DbModels\\Bookcs.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:31:46.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Author.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Models\\DbModels\\Author.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Models\\DbModels\\Author.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Models\\DbModels\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:31:22.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "SystemBibliotekiOnline\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Pulpit\\SystemBibliotekiOnline\\SystemBibliotekiOnline\\Controllers\\BookController.cs",
+              "RelativeToolTip": "SystemBibliotekiOnline\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAkwBEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:34:07.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

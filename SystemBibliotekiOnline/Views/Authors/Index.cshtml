@@ -1,0 +1,48 @@
+﻿@model IEnumerable<SystemBibliotekiOnline.Models.DbModels.Author>
+
+<h2>Autorzy</h2>
+
+<a asp-action="Create"
+   class="btn btn-success mb-3">
+    Dodaj autora
+</a>
+
+<table class="table table-striped">
+
+    <thead>
+        <tr>
+            <th>Imię i nazwisko</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+                <tr>
+
+                    <td>@item.Name @item.Surname</td>
+
+                    <td>
+
+                        <a asp-action="Edit"
+                           asp-route-id="@item.AuthorId"
+                           class="btn btn-warning">
+                            Edytuj
+                        </a>
+
+                        <a asp-action="Delete"
+                           asp-route-id="@item.AuthorId"
+                           class="btn btn-danger">
+                            Usuń
+                        </a>
+
+                    </td>
+
+                </tr>
+        }
+
+    </tbody>
+
+</table>

@@ -1,0 +1,108 @@
+﻿@model SystemBibliotekiOnline.Models.ViewModels.BookFormViewModel
+
+<h2>Dodaj książkę</h2>
+
+<form asp-action="Create"
+      method="post"
+      enctype="multipart/form-data">
+
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="All"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+        <label>Tytuł</label>
+        <input asp-for="Book.Title" class="form-control" />
+        <span asp-validation-for="Book.Title" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>ISBN</label>
+        <input asp-for="Book.ISBN" class="form-control" />
+        <span asp-validation-for="Book.ISBN" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Opis</label>
+        <textarea asp-for="Book.Description"
+                  class="form-control"></textarea>
+        <span asp-validation-for="Book.Description" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Rok wydania</label>
+        <input asp-for="Book.PublicationYear"
+               class="form-control" />
+        <span asp-validation-for="Book.PublicationYear"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Autor</label>
+
+        <select asp-for="Book.AuthorId"
+                asp-items="Model.Authors"
+                class="form-control">
+
+            <option value="">
+                -- Wybierz autora --
+            </option>
+
+        </select>
+
+        <span asp-validation-for="Book.AuthorId"
+              class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label>Kategoria</label>
+
+        <select asp-for="Book.CategoryId"
+                asp-items="Model.Categories"
+                class="form-control">
+
+            <option value="">
+                -- Wybierz kategorię --
+            </option>
+
+        </select>
+
+        <span asp-validation-for="Book.CategoryId"
+              class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label>Okładka</label>
+
+        <input asp-for="CoverFile"
+               type="file"
+               class="form-control" />
+
+        <span asp-validation-for="CoverFile"
+              class="text-danger"></span>
+
+    </div>
+
+    <div class="mt-3">
+
+        <button type="submit"
+                class="btn btn-primary">
+            Zapisz
+        </button>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+            Anuluj
+        </a>
+
+    </div>
+
+</form>
+
+@section Scripts
+{
+        <partial name="_ValidationScriptsPartial" />
+}
