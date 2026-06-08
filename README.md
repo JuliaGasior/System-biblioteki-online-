@@ -117,6 +117,3 @@ Admin123!
 * Podgląd wszystkich wypożyczeń
 * Panel administracyjny ze statystykami
 
-## Autor
-
-Projekt wykonany w ramach zajęć/programu studiów.
